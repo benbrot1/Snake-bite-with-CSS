@@ -1,0 +1,22 @@
+header{
+    display: flex;
+    justify-content: space-between;
+}
+header nav{
+    margin-right: 20px;
+}
+header nav li{
+    display: inline-block;
+    list-style-type: none;
+    margin: 20px;
+}
+
+.content {
+    display: flex;
+}
+.content .sidebar {
+    margin: 70px;
+}
+footer {
+    text-align: center;
+}
